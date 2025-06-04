@@ -30,4 +30,4 @@ A modern, SEO-friendly, and responsive web application for comparing different c
  ** run npm install
  ** npm run dev (development mode)
  ** Open http://localhost:3000 in your browser to see the app.
- ** npm test (to ruun test cases)
+ ** npm test (to run test cases)
