@@ -25,7 +25,7 @@ A modern, SEO-friendly, and responsive web application for comparing different c
 
 # 1. Clone the repository
  ** Git bash
- ** git clone https://github.com/yourusername/car-comparison-dashboard.git
+ ** git clone https://github.com/lostravi/car-comparison-dashboard.git
  ** cd car-comparison-dashboard
  ** run npm install
  ** npm run dev (development mode)
